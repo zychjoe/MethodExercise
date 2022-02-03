@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
