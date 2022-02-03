@@ -64,7 +64,7 @@ namespace MethodExercise
             int prod = 1;
             for (int i = 0; i < mults.Length; i++)
             {
-                prod = prod * mults[i];
+                prod *= mults[i];
             }
             return prod;
         }
@@ -82,7 +82,7 @@ namespace MethodExercise
             int quot = divs[0];
             for (int i = 1; i < divs.Length; i++)
             {
-                quot = quot / divs[i];
+                quot /= divs[i];
             }
             return quot;
         }
@@ -100,7 +100,7 @@ namespace MethodExercise
             int rem = mods[0];
             for (int i = 1; i < mods.Length; i++)
             {
-                rem = rem % mods[i];
+                rem %= mods[i];
             }
             return rem;
         }
